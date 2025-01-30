@@ -1,0 +1,227 @@
+a[data-css="sidebar-logo"]:hover h1 {
+  color: #4f56c3; !important;
+}
+
+.hJUERu {
+  background: rgba(150, 38, 164, 0.2) !important;
+  color: rgb(152, 38, 170) !important;
+}
+
+label::before {
+  color: #4f56c3 !important;
+}
+
+.adminjs_Button[type="submit"]:not(.ignoreButtonStyle),
+.adminjs_InfoBox button {
+  background-rgb(105, 134, 184) !important;
+  border-rgb(105, 134, 184) !important;
+}
+
+.adminjs_Button[type="submit"]:not(.ignoreButtonStyle):hover,
+.adminjs_InfoBox button:hover {
+  background-color: rgb(157, 90, 153) !important;
+  border-color: rgb(157, 90, 153) !important;
+}
+
+.adminjs_Button:not(.ignoreButtonStyle),
+.adminjs_Button[type="button"]:not(.ignoreButtonStyle) {
+  color: #4f56c3;;
+}
+
+.adminjs_Button[type="button"]:not(.ignoreButtonStyle):hover,
+.adminjs_Button[type="button"]:not(.ignoreButtonStyle):active,
+.adminjs_Button[type="button"]:not(.ignoreButtonStyle):focus {
+  background-color: rgba(200, 48, 214, 0.1) !important;
+}
+
+.adminjs_Button[type="button"]:not(.ignoreButtonStyle) svg circle {
+  fill: none !important;
+}
+
+.adminjs_ButtonGroupItem {
+  border-color: #4f56c3 !important;
+  color: #4f56c3 !important;
+}
+
+.adminjs_ButtonGroupItem:hover {
+  background-color: rgba(200, 48, 214, 0.1) !important;
+}
+
+:not(.adminjs_Icon)>svg circle {
+  fill: #6a0a76 !important;
+}
+
+.jSooGQ {
+  background-color: rgb(236, 230, 237) !important;
+}
+
+input:focus,
+.gfWdHp:hover,
+.css-1u4nhqf-control:hover {
+  border-color: rgb(152, 38, 170) !important;
+}
+
+.adminjs_Breadcrumbs a:hover {
+  color: rgb(152, 38, 170) !important;
+}
+
+.cvvOAe {
+  background-color: #6a0a76 !important;
+}
+
+.adminjs_Button[type="submit"].ignoreButtonStyle:not([disabled]) {
+  color: white !important;
+  border: 1px solid background-color: rgb(70, 110, 174) !important;
+}
+
+.adminjs_Button[type="submit"].ignoreButtonStyle:not([disabled]):hover {
+  background: rgb(128, 96, 182) !important;
+  border-color: rgb(128, 96, 182) !important;
+}
+
+.fqGemd {
+  color: white !important;
+}
+
+.fqGemd:hover:not([disabled]) {
+  border-color: rgb(128, 96, 182) !important;
+}
+
+.adminjs_TableCaption {
+  background: rgb(180, 51, 200) !important;
+}
+
+* {
+  /* outline: 1px solid lime; */
+}
+
+.container-dashboard {
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(375px, 1fr));
+  gap: 30px;
+  margin: auto;
+  padding: 30px;
+  padding-top: 0;
+}
+
+.box-account-types,
+.box-job-postings,
+.box-hidden,
+.box-top-companies,
+.box-job-fields,
+.box-application-status,
+.box-user-engagement,
+.box-subscription-revenue,
+.box-interviews-scheduled,
+.box-job-engagement {
+  padding: 50px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  background-color: white;
+  width: 100%;
+}
+
+.hidden {
+  display: none;
+}
+
+.full-width {
+  width: 100%;
+}
+
+.half-width {
+  width: 50%;
+}
+
+.default-dashboard {
+  padding: 30px;
+}
+
+.loading-box {
+  position: relative;
+  overflow: hidden;
+  background-color: white;
+  height: var(--page-header-height);
+  padding-top: var(--page-header-padding-y);
+  padding-bottom: var(--page-header-padding-y);
+  padding-left: var(--page-header-padding-x);
+  padding-right: var(--page-header-padding-x);
+}
+
+.loading-box-absolute {
+  position: absolute;
+  top: 30px;
+  left: 0;
+  opacity: 0.9;
+  display: none;
+}
+
+.loading-box-absolute.block {
+  display: block;
+}
+
+.loading-text {
+  text-align: center;
+  color: grey100;
+}
+
+.loading-text-opacity {
+  opacity: 0.8;
+}
+
+.doughnut-graph {
+  width: 66.66%;
+}
+
+@media only screen and (max-width: 600px) {
+  .doughnut-graph {
+    width: 100%;
+  }
+}
+
+*:focus-visible {
+  outline: 2px solid rgb(128, 96, 182);
+  border-radius: 3px;
+}
+
+.ciPFfW>svg {
+  stroke: rgb(180, 51, 200) !important;
+}
+
+.grTLTH {
+  border: 1px solid rgb(180, 51, 200) !important;
+  background-color: rgb(180, 51, 200) !important;
+}
+
+a[data-testid="action-bulkDelete"] {
+  background: #f8f9fe !important;
+  padding: 5px 16px;
+}
+
+a[data-testid="action-bulkDelete"]:hover {
+  background: #f8f9fe !important;
+  opacity: 0.8 !important;
+}
+
+.jrbaWY .adminjs_Button {
+  color: white !important;
+  background: #6986b3 !important;
+  border-color: #6986b3 !important;
+}
+
+.jrbaWY .adminjs_Button:hover {
+  background-color: rgb(157, 90, 153) !important;
+  border-color: rgb(157, 90, 153) !important;
+}
+
+.gGQMaR {
+  border-color: rgba(150, 38, 164, 0.2) !important;
+  background-color: rgba(150, 38, 164, 0.2) !important;
+}
+
+.cxiFPe:hover {
+  background-color: rgba(150, 38, 164, 0.1) !important;
+  ;
+}
