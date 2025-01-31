@@ -3,7 +3,7 @@ import React, { useEffect, useState } from "react";
 import { Routes, Route, useLocation } from "react-router-dom";
 import Home from "./pages/Home/Home";
 
-function App() {
+/*function App() {
   useScrollToTop();
 
   useEffect(() => {
@@ -38,6 +38,6 @@ function App() {
       <Footer />
     </div>
   );
-}
+}*/
 
 export default App;
